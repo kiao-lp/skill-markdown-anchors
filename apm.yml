@@ -1,0 +1,9 @@
+{
+  "name": "markdown-anchors",
+  "version": "1.0.0",
+  "description": "markdown-anchors skill",
+  "targets": [
+    "codex",
+    "claude"
+  ]
+}
